@@ -11,8 +11,8 @@
   },
   "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-    "start": "sudo"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "sudo npm install lodash"
   },
   "author": "",
   "license": "ISC"
